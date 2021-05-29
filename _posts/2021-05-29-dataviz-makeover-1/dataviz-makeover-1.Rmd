@@ -1,0 +1,23 @@
+---
+title: "DataViz Makeover 1"
+description: |
+  Singapore's top 6 merchandise trading partners, 2019-2020.
+author:
+  - name: Ong Chee Hong
+    url: https://www.linkedin.com/in/alexongch/
+date: 05-29-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
