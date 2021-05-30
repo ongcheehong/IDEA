@@ -183,7 +183,7 @@ The completed data visualization using tableau desktop can be accessed through [
 
 15. As such we will make some changes to the dashboard. 1) Remove the marker to indicate the month of interest. 2) The annotation will be change to area type instead of mark type. The finalized visualisation is as shown below.
 
-![](img/Dashboard.png)
+![](img/Final Dashboard_2.png)
 
 
 16. The visualisation can be assessed from this [**link**](https://public.tableau.com/app/profile/chee.hong/viz/Singaporestop6merchandisetradingpartners2019-2020/Dashboard1). Do note that there will be some minor differences between the visualisation from Tableau Desktop and Tableau Public due to the difference in aspect ratio etc.
